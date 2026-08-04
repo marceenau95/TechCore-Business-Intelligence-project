@@ -142,7 +142,29 @@ Se definieron tres perfiles:
 - **Gerente de Sucursal:** acceso únicamente a la información de su sucursal.
 
 ---
+## 📊 Principales insights
 
+El análisis del comportamiento comercial permitió identificar los siguientes hallazgos:
+
+- **Concentración geográfica:** Medellín y Bogotá concentran el mayor volumen de ventas, representando aproximadamente el **45 % y 31 %** de las ventas totales, respectivamente.
+- **Marcas líderes:** Lenovo presenta el mejor desempeño, seguida por HP y Dell, reflejando una mayor preferencia de los clientes por estas marcas.
+- **Desempeño comercial:** los vendedores con mejores resultados se concentran principalmente en las sucursales de Medellín, destacándose Ana Sofía Llopis Blázquez como la vendedora con mayor desempeño.
+- **Métodos de pago:** la tarjeta de crédito es el medio de pago más utilizado, mientras que el efectivo presenta la menor participación.
+- **Perfil de clientes:** los segmentos de edad **36-45 y 26-35 años** presentan las mayores participaciones en ventas, con aproximadamente 29,4 % y 29,1 %, respectivamente.
+- **Oportunidades comerciales:** las ciudades con menor participación y las marcas con menor rotación representan oportunidades para desarrollar estrategias comerciales específicas.
+
+## 💡 Recomendaciones
+
+A partir de los hallazgos obtenidos, se plantean las siguientes recomendaciones:
+
+- Desarrollar **estrategias comerciales diferenciadas por región** para fortalecer las ciudades con menor participación.
+- Fortalecer las relaciones con proveedores y evaluar la ampliación de inventario para marcas de alto desempeño como **Lenovo, HP y Dell**.
+- Diseñar estrategias que aprovechen la preferencia de los clientes por **medios de pago electrónicos**.
+- Identificar buenas prácticas de los vendedores de alto desempeño y desarrollar **programas de capacitación** para replicarlas en otros equipos.
+- Utilizar la segmentación demográfica para diseñar **campañas de marketing y fidelización personalizadas**.
+- Impulsar las marcas de menor rotación mediante promociones, bundles y campañas digitales dirigidas a segmentos específicos.
+
+---
 ## 📁 Estructura del proyecto
 
 ```text
