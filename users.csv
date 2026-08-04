@@ -1,0 +1,12 @@
+﻿Nombre;Email;Role;NombreSucursal;CiudadSucursal
+Carla Herrera;carla.herrera@techcore.com;Director General;Todas;Todas
+Gerente Bogotá;gregionalbogota@techcore.com;Gerente Regional;TechCore Bogotá #1;Bogotá
+Gerente Bogotá;gregionalbogota@techcore.com;Gerente Regional;TechCore Bogotá #2;Bogotá
+Gerente Medellín;gregionalmedellin@techcore.com;Gerente Regional;TechCore Medellín #1;Medellín
+Gerente Medellín;gregionalmedellin@techcore.com;Gerente Regional;TechCore Medellín #2;Medellín
+Gerente Pereira;gregionalpereira@techcore.com;Gerente Regional;TechCore Pereira;Pereira
+Gerente Cali;gregionalcali@techcore.com;Gerente Regional;TechCore Cali;Cali
+Gerente Sucursal Bogota 1;techcorebogota1@techcore.com;Gerente Sucursal;TechCore Bogotá #1;Bogotá
+Gerente Sucursal Bogota 2;techcorebogota2@techcore.com;Gerente Sucursal;TechCore Bogotá #2;Bogotá
+Gerente Sucursal Medellín 1;techcoremedellin1@techcore.com;Gerente Sucursal;TechCore Medellín #1;Medellín
+Gerente Sucursal Medellín 2;techcoremedellin2@techcore.com;Gerente Sucursal;TechCore Medellín #2;Medellín
